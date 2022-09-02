@@ -1948,6 +1948,7 @@ var cnames_active = {
   "next-redux-cookie-wrapper": "bjoluc.github.io/next-redux-cookie-wrapper",
   "next.awesome-vue": "awesome-vue.netlify.app", // noCF
   "nextkit-fetcher": "ultirequiem.github.io/nextkit-fetcher",
+  "nbs": "nbs-js.github.io",
   "nflow": "nflow-js.github.io", // noCF? (don´t add this in a new PR)
   "nfui": "no-frills-ui.netlify.app",
   "nfwyst": "nfwyst.github.io",
